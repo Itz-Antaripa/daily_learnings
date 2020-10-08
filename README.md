@@ -1,4 +1,4 @@
-# I am starting a new journey today of keeping a record of my daily learners in this github repo. Highly inspired by Amit Chaudhary.
+#### I am starting a new journey today of keeping a record of my daily learners in this github repo. Highly inspired by Amit Chaudhary.
 Starting date: **08/10/2020**
 
 ## Day 1
