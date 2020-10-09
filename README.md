@@ -8,9 +8,9 @@ Starting date: **08/10/2020**
 * [ ] https://www.kaggle.com/hiro5299834/riiid-lgbm-starter-ii
 * [x] [Github markdown help](https://guides.github.com/features/mastering-markdown/)
 ## Day 2
-* [ ]
+* [x] https://medium.com/@obianuju.c.okafor/automatic-topic-classification-of-research-papers-using-the-nlp-topic-model-nmf-d4365987ec82
 
 ## To-do lists:
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources
 * [ ] [Deep Learning with PyTorch - Zero to GANs](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)
-* [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+* [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
