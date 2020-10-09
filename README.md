@@ -1,4 +1,4 @@
-#### I am starting a new journey today of keeping a record of my daily learners in this github repo. Highly inspired by Amit Chaudhary.
+#### I am starting a new journey today of keeping a record of my daily learners in this github repo. Highly inspired by @amitness
 Starting date: **08/10/2020**
 
 ## Day 1
@@ -7,3 +7,10 @@ Starting date: **08/10/2020**
 * [ ] https://www.kaggle.com/jhoward/nb-svm-strong-linear-baseline
 * [ ] https://www.kaggle.com/hiro5299834/riiid-lgbm-starter-ii
 * [x] [Github markdown help](https://guides.github.com/features/mastering-markdown/)
+## Day 2
+* [ ]
+
+## To-do lists:
+* [ ] https://madewithml.com/topics/  --> Best machine learning resources
+* [ ] [Deep Learning with PyTorch - Zero to GANs](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)
+* [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
