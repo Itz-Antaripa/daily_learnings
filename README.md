@@ -9,6 +9,9 @@ Starting date: **08/10/2020**
 * [x] [Github markdown help](https://guides.github.com/features/mastering-markdown/)
 ## Day 2
 * [x] https://medium.com/@obianuju.c.okafor/automatic-topic-classification-of-research-papers-using-the-nlp-topic-model-nmf-d4365987ec82
+## Day 3
+
+## Day 4
 
 ## To-do lists:
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources
