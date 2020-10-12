@@ -16,10 +16,14 @@ Saturday: Busiest day after decade, handled one live event, prepared for first M
 Organized my first Microsoft Learn Studen Ambassadors event which was successful, prepared another dataset
 * [x] [Landing inernships at FANGM and foreign universities](https://web.microsoftstream.com/video/02f64474-e954-468b-b1f4-564a03ff4fb5)
 ## Day 5
-
+* [x] [How to join 2 text columns in a dataset - cat functions and '+' operator](https://cmdlinetips.com/2018/11/how-to-join-two-text-columns-into-a-single-column-in-pandas/)
+* [ ] https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34
+* [x] [Lemmatization techniques](https://www.machinelearningplus.com/nlp/lemmatization-examples-python/#wordnetlemmatizerwithappropriatepostag)
+* [ ] [Datacamp - Stemming vs Lemmatization](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
 ## To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources
 * [ ] [Deep Learning with PyTorch - Zero to GANs](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)
 * [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 * [ ] [Introduction to deep Learning with PyTorch - Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+* [ ] [String manipulation and Regular expression](https://jakevdp.github.io/WhirlwindTourOfPython/14-strings-and-regular-expressions.)
