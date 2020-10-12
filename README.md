@@ -18,6 +18,8 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 ## Day 5
 
 ## To-do lists:
+* [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources
 * [ ] [Deep Learning with PyTorch - Zero to GANs](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)
 * [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+* [ ] [Introduction to deep Learning with PyTorch - Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188)
