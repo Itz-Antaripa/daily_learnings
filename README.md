@@ -20,6 +20,10 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34
 * [x] [Lemmatization techniques](https://www.machinelearningplus.com/nlp/lemmatization-examples-python/#wordnetlemmatizerwithappropriatepostag)
 * [ ] [Datacamp - Stemming vs Lemmatization](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
+## Day 6
+* [x] [Extracting keywords from short text](https://towardsdatascience.com/extracting-keywords-from-short-text-fce39157166b)  (Read again)
+* [ ] [Keywords extraction with TextRank (Pagerank), spaCy](https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0)
+* [ ] [Extensive text data feature engineering - Kaggle](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering)
 ## To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources
