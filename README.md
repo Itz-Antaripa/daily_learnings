@@ -24,6 +24,8 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [x] [Extracting keywords from short text](https://towardsdatascience.com/extracting-keywords-from-short-text-fce39157166b)  (Read again)
 * [ ] [Keywords extraction with TextRank (Pagerank), spaCy](https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0)
 * [ ] [Extensive text data feature engineering - Kaggle](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering)
+## Day 7
+* [ ] [Natural language processing using textblob - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)
 ## To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources
