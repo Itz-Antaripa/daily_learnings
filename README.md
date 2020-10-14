@@ -33,3 +33,4 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 * [ ] [Introduction to deep Learning with PyTorch - Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 * [ ] [String manipulation and Regular expression](https://jakevdp.github.io/WhirlwindTourOfPython/14-strings-and-regular-expressions.)
+* [ ] [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984) - (Kaggle competitio with GAN)
