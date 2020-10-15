@@ -25,9 +25,9 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Keywords extraction with TextRank (Pagerank), spaCy](https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0)
 * [ ] [Extensive text data feature engineering - Kaggle](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering)
 ### Day 7
-* [ ] [Natural language processing using textblob - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)
+* [ ] [Natural language processing using textblob](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/) - Analytics Vidhya
 ### Day 8
-* [x] [TextBlob - Official documentation](https://textblob.readthedocs.io/en/dev/#:~:text=TextBlob%20is%20a%20Python%20(2,classification%2C%20translation%2C%20and%20more.)
+* [x] [TextBlob - Official documentation](https://textblob.readthedocs.io/en/dev/#:~:text=TextBlob%20is%20a%20Python%20(2,classification%2C%20translation%2C%20and%20more)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
@@ -39,3 +39,7 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Elena Voita NLP Course](https://lena-voita.github.io/nlp_course.html)
 * [ ] [Best resources for NLP](https://pakodas.substack.com/p/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c) - by Prateek Bhavsar
 * [ ] [Data Science Hackathons solutions - Akash Gupta](https://github.com/aasu14/Data-Science-Hackathon-And-Competition)
+* [ ] https://medium.com/@catarina_95504/how-we-built-a-nlp-flavored-data-science-curriculum-and-hackathon-course-66fa47013ee5
+
+
+
