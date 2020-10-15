@@ -36,3 +36,4 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984) - (Kaggle competition with GAN)
 * [ ] [Elena Voita NLP Course](https://lena-voita.github.io/nlp_course.html)
 * [ ] [Best resources for NLP](https://pakodas.substack.com/p/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c) - by Prateek Bhavsar
+* [ ] [Data Science Hackathons solutions - Akash Gupta](https://github.com/aasu14/Data-Science-Hackathon-And-Competition)
