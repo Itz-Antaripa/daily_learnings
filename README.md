@@ -28,9 +28,11 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Natural language processing using textblob - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)
 ## To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
-* [ ] https://madewithml.com/topics/  --> Best machine learning resources
+* [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
 * [ ] [Deep Learning with PyTorch - Zero to GANs](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)
 * [ ] [Deep Learning with PyTorch by Alfredo Canzeani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 * [ ] [Introduction to deep Learning with PyTorch - Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 * [ ] [String manipulation and Regular expression](https://jakevdp.github.io/WhirlwindTourOfPython/14-strings-and-regular-expressions.)
-* [ ] [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984) - (Kaggle competitio with GAN)
+* [ ] [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984) - (Kaggle competition with GAN)
+* [ ] [Elena Voita NLP Course](https://lena-voita.github.io/nlp_course.html)
+* [ ] [Best resources for NLP](https://pakodas.substack.com/p/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c) - by Prateek Bhavsar
