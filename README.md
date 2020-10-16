@@ -30,6 +30,8 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [x] [TextBlob - Official documentation](https://textblob.readthedocs.io/en/dev/#:~:text=TextBlob%20is%20a%20Python%20(2,classification%2C%20translation%2C%20and%20more))
 ### Day 9
 * [ ] https://www.analyticsvidhya.com/blog/2020/10/12-powerful-tips-ace-data-science-hackathons/
+### Day 10
+* [ ] [Natural Language Processing - Pipeline](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Medium
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
