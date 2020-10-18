@@ -38,6 +38,7 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Coreference resolution - Hugging face](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
 * [ ] [Parsing english in 500 lines of code](https://explosion.ai/blog/parsing-english-in-python)
 * [ ] [POS tagger - explosion.ai](https://explosion.ai/blog/part-of-speech-pos-tagger-in-python)
+Gave my first technical talk on "Introduction to natural language processing"
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
