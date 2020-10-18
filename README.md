@@ -34,6 +34,10 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Natural Language Processing - Pipeline](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Medium
 * [x] [Pattern library](https://analyticsindiamag.com/hands-on-guide-to-pattern-a-python-tool-for-effective-text-processing-and-data-mining/) - Analytics India Magazine
 * [x] [Hacklive 3 - NLP hackathon](https://youtu.be/7wwAtkSp5Uw)
+### Day 11
+* [ ] [Coreference resolution - Hugging face](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
+* [ ] [Parsing english in 500 lines of code](https://explosion.ai/blog/parsing-english-in-python)
+* [ ] [POS tagger - explosion.ai](https://explosion.ai/blog/part-of-speech-pos-tagger-in-python)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
