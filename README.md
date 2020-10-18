@@ -32,6 +32,8 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] https://www.analyticsvidhya.com/blog/2020/10/12-powerful-tips-ace-data-science-hackathons/
 ### Day 10
 * [ ] [Natural Language Processing - Pipeline](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Medium
+* [x] [Pattern library](https://analyticsindiamag.com/hands-on-guide-to-pattern-a-python-tool-for-effective-text-processing-and-data-mining/) - Analytics India Magazine
+* [x] [Hacklive 3 - NLP hackathon](https://youtu.be/7wwAtkSp5Uw)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
@@ -45,5 +47,7 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Data Science Hackathons solutions](https://github.com/aasu14/Data-Science-Hackathon-And-Competition) - Akash Gupta
 * [ ] https://medium.com/@catarina_95504/how-we-built-a-nlp-flavored-data-science-curriculum-and-hackathon-course-66fa47013ee5
 * [ ] [NLP Analysis of pdf documents](https://www.kaggle.com/jpandeinge/nlp-analysis-of-pdf-documents) - Kaggle
+* [ ] [Transformers - hugging face](https://huggingface.co/transformers/)
+* [ ] https://github.com/ThilinaRajapakse/simpletransformers
 
 
