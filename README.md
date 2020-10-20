@@ -39,6 +39,10 @@ Organized my first Microsoft Learn Studen Ambassadors event which was successful
 * [ ] [Parsing english in 500 lines of code](https://explosion.ai/blog/parsing-english-in-python)
 * [ ] [POS tagger - explosion.ai](https://explosion.ai/blog/part-of-speech-pos-tagger-in-python)
 Gave my first technical talk on "Introduction to natural language processing"
+### Day 12
+Participating in heathcare hackathon
+### Day 13
+* [x] [Web scraping - DevScript](https://youtu.be/VkyoFDzk1nM) by Apoorve Goyal
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
