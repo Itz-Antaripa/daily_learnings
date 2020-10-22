@@ -43,6 +43,10 @@ Gave my first technical talk on "Introduction to natural language processing"
 Participating in heathcare hackathon
 ### Day 13
 * [x] [Web scraping - DevScript](https://youtu.be/VkyoFDzk1nM) by Apoorve Goyal
+### Day 14
+### Day 15
+* [x] https://kanoki.org/2018/12/27/text-matching-cosine-similarity/
+* [ ] https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
