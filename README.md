@@ -47,6 +47,9 @@ Participating in heathcare hackathon
 ### Day 15
 * [x] https://kanoki.org/2018/12/27/text-matching-cosine-similarity/
 * [ ] https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+### Day 16
+* [x] https://github.com/practical-nlp/practical-nlp/tree/master/Ch1
+* [ ] https://github.com/practical-nlp/practical-nlp/tree/master/Ch2
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
