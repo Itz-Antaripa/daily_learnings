@@ -62,5 +62,7 @@ Participating in heathcare hackathon
 * [ ] [NLP Analysis of pdf documents](https://www.kaggle.com/jpandeinge/nlp-analysis-of-pdf-documents) - Kaggle
 * [ ] [Transformers - hugging face](https://huggingface.co/transformers/)
 * [ ] https://github.com/ThilinaRajapakse/simpletransformers
+* [ ] [Introduction to linear algebra for applied machine learning in Python](https://pabloinsente.github.io/intro-linear-algebra)
+* [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 
 
