@@ -54,6 +54,9 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] https://github.com/practical-nlp/practical-nlp/tree/master/Ch2
 ### Day 17
 * [x] https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
+**Camelot library for dealing with tabular data in pdf files**
+* [x] https://www.analyticsvidhya.com/blog/2020/08/how-to-extract-tabular-data-from-pdf-document-using-camelot-in-python/
+* [ ] https://medium.com/@marizu_makozi/extracting-tables-in-pdf-using-python-d520b6d8a66
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
@@ -71,5 +74,6 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] https://github.com/ThilinaRajapakse/simpletransformers
 * [ ] [Introduction to linear algebra for applied machine learning in Python](https://pabloinsente.github.io/intro-linear-algebra)
 * [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
+* [ ] https://amitness.com/regex/
 
 
