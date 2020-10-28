@@ -45,6 +45,7 @@ Participating in heathcare hackathon
 ### Day 13
 * [x] [Web scraping - DevScript](https://youtu.be/VkyoFDzk1nM) by Apoorve Goyal
 ### Day 14
+Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oct)
 ### Day 15
 * [x] https://kanoki.org/2018/12/27/text-matching-cosine-similarity/
 * [ ] https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
