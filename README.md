@@ -50,6 +50,8 @@ Participating in heathcare hackathon
 ### Day 16
 * [x] https://github.com/practical-nlp/practical-nlp/tree/master/Ch1
 * [ ] https://github.com/practical-nlp/practical-nlp/tree/master/Ch2
+### Day 17
+* [x] https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
