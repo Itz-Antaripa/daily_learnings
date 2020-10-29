@@ -54,6 +54,9 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] https://github.com/practical-nlp/practical-nlp/tree/master/Ch2
 ### Day 17
 * [x] https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
+### Day 18
+* [x] [Extract Tables from PDFs using Camelot](https://youtu.be/zJP_fxrNUl0) - Bhavesh Bhatt (YouTube)
+* [x] ["Extracting tabular data from PDFs with Camelot & Excalibur" - Vinayak Mehta](https://youtu.be/99A9Fz6uHAA) YouTube
 
 **Camelot library for dealing with tabular data in pdf files**
 * [x] https://www.analyticsvidhya.com/blog/2020/08/how-to-extract-tabular-data-from-pdf-document-using-camelot-in-python/
