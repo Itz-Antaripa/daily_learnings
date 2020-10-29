@@ -80,4 +80,11 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 **Resources**
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
 
+**NLP**
+Few other resources and projects that could help you to stay informed with the field of NLP
+* https://ruder.io/nlp-news/
+* https://nlpprogress.com/
+* https://paperswithcode.com/methods/area/natural-language-processing
+* https://madewithml.com/topics/natural-language-processing/
+* https://arxiv.org/list/cs.CL/recent
 
