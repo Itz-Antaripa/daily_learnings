@@ -75,5 +75,7 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] [Introduction to linear algebra for applied machine learning in Python](https://pabloinsente.github.io/intro-linear-algebra)
 * [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 * [ ] https://amitness.com/regex/
+**Resources**
+* [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
 
 
