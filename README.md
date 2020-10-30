@@ -61,6 +61,10 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 ### Day 18
 * [x] [Extract Tables from PDFs using Camelot](https://youtu.be/zJP_fxrNUl0) - Bhavesh Bhatt (YouTube)
 * [x] ["Extracting tabular data from PDFs with Camelot & Excalibur" - Vinayak Mehta](https://youtu.be/99A9Fz6uHAA) YouTube
+### Day 19
+* [x] https://radiant-brushlands-42789.herokuapp.com/radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
+* [x] https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-use-scikit-learn-datasets-for-machine-learning-d6493b38eca3
+* [ ] https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
