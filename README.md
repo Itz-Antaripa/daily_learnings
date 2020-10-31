@@ -88,6 +88,9 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
 
 **NLP**
+
+* https://github.com/AI4Bharat/indicnlp_catalog - A catalog of resources for Indian language NLP
+
 Few other resources and projects that could help you to stay informed with the field of NLP
 * https://ruder.io/nlp-news/
 * https://nlpprogress.com/
