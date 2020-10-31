@@ -65,6 +65,8 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [x] https://radiant-brushlands-42789.herokuapp.com/radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
 * [x] https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-use-scikit-learn-datasets-for-machine-learning-d6493b38eca3
 * [ ] https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+### Day 20
+* [ ] 
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
@@ -86,6 +88,7 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 
 **Resources**
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
+* [ ] https://github.com/awesomedata/awesome-public-datasets
 
 **NLP**
 
