@@ -88,7 +88,10 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 
 **Resources**
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
-* [ ] https://github.com/awesomedata/awesome-public-datasets
+
+*Datasets*
+* https://github.com/awesomedata/awesome-public-datasets
+* [Useful sites for finding datasets](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/useful-sites-for-finding-datasets-for-data-analysis-tasks-1edb8f26c34d) - Parul Pandey
 
 **NLP**
 
