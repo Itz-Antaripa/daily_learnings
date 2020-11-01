@@ -67,6 +67,7 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 ### Day 20
 *Gave my talk on Data Analyis organized by IEEE Student branch of Sathyabama University*
+
 [Link to repo used in the Data Analysis Webinar](https://github.com/Itz-Antaripa/IEEE-Data-Analysis-Workshop)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
