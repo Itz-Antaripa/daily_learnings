@@ -67,6 +67,20 @@ Made MediWiz from 18th Oct to 22 Oct (Presentation given on 23rd Oct and 24th Oc
 * [ ] https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 ### Day 20
 *Gave my talk on Data Analyis organized by IEEE Student branch of Sathyabama University*
+### Day 21
+* Won 1st prize at Data Hackathon held on 23-24 October 2020 organized by IGDTUW during Innerve
+* Data Science and Machine learning track of 30 Days of Google Cloud --> 1st lab
+### Day 22
+* [x] https://www.kaggle.com/shrutimechlearn/nlp-from-basics-to-intermediate-1
+* [x] https://realpython.com/pdf-python/#how-to-extract-document-information-from-a-pdf-in-python
+
+Topics covered:
+* Extract metadata from a PDF
+* Rotate pages
+* Merge and split PDFs
+* Add watermarks
+* Add encryption
+
 
 [Link to repo used in the Data Analysis Webinar](https://github.com/Itz-Antaripa/IEEE-Data-Analysis-Workshop)
 ### To-do lists:
