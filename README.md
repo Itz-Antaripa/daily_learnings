@@ -82,6 +82,12 @@ Topics covered:
 * Merge and split PDFs
 * Add watermarks
 * Add encryption
+### Day 23
+### Day 24
+
+Github profile maker
+* [x] https://medium.com/swlh/explore-new-github-readme-feature-7d5cc21bf02f
+* [x] https://gist.github.com/rxaviers/7360908
 
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
