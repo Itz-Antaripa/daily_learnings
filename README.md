@@ -91,6 +91,8 @@ Topics covered:
 Github profile maker
 * [x] https://medium.com/swlh/explore-new-github-readme-feature-7d5cc21bf02f
 * [x] https://gist.github.com/rxaviers/7360908
+### Day 25
+Gave assessment and coding test at Accenture.
 
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
