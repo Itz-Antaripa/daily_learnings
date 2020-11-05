@@ -86,7 +86,8 @@ Topics covered:
 * [x] https://www.quora.com/What-is-the-bag-of-words-algorithm
 * [x] [Word Embeddings using BOW, Tf-IDF with an example](https://medium.com/@arihantjain25121995/word-embeddings-using-bow-tf-idf-with-an-example-a10d2e2ab03e) - Medium
 ### Day 24
-
+* [x] https://www.thepythoncode.com/article/extract-pdf-images-in-python
+* [x] https://www.geeksforgeeks.org/how-to-convert-an-image-to-numpy-array-and-saveit-to-csv-file-using-python/
 Github profile maker
 * [x] https://medium.com/swlh/explore-new-github-readme-feature-7d5cc21bf02f
 * [x] https://gist.github.com/rxaviers/7360908
