@@ -95,6 +95,8 @@ Github profile maker
 Gave assessment and coding test at Accenture.
 ### Day 28
 * [x] [Extract tables from PDF files](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-extract-tables-from-pdf-files-with-camelot-12ca6afd28dd) - total no. of tables, parsing report, shape, rename columns, to_csv
+* [ ] https://auth0.com/blog/image-processing-in-python-with-pillow/#The-Image-Object
+* [x] [Extract text from PDF](https://towardsdatascience.com/how-to-extract-text-from-pdf-245482a96de7)
 
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
