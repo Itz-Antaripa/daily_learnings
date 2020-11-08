@@ -93,6 +93,8 @@ Github profile maker
 * [x] https://gist.github.com/rxaviers/7360908
 ### Day 25
 Gave assessment and coding test at Accenture.
+### Day 28
+* [x] [Extract tables from PDF files](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-extract-tables-from-pdf-files-with-camelot-12ca6afd28dd) - total no. of tables, parsing report, shape, rename columns, to_csv
 
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
