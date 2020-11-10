@@ -97,6 +97,11 @@ Gave assessment and coding test at Accenture.
 * [x] [Extract tables from PDF files](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-extract-tables-from-pdf-files-with-camelot-12ca6afd28dd) - total no. of tables, parsing report, shape, rename columns, to_csv
 * [ ] https://auth0.com/blog/image-processing-in-python-with-pillow/#The-Image-Object
 * [x] [Extract text from PDF](https://towardsdatascience.com/how-to-extract-text-from-pdf-245482a96de7)
+### Day 29
+* [x] https://www.geeksforgeeks.org/download-anything-to-google-drive-using-google-colab/
+* [x] [Download PDF at Google drive through open URLs - Google Colab notebook](https://www.geeksforgeeks.org/download-anything-to-google-drive-using-google-colab/)
+* [x] [Extracting tables and images from PDF - Colab notebook](https://colab.research.google.com/drive/1NqtBszkiefoaRwCXg9NjmQIwVLpRQ9Xb?usp=sharing)
+* [x] [Extract text from PDF using pdfx - Calab notebook](https://colab.research.google.com/github/DerwenAI/spaCy_tuTorial/blob/master/Extract_Text_from_PDF.ipynb#scrollTo=fzzZPaQj5R-S)
 
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
