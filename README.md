@@ -103,7 +103,9 @@ Gave assessment and coding test at Accenture.
 * [x] [Extracting tables and images from PDF - Colab notebook](https://colab.research.google.com/drive/1NqtBszkiefoaRwCXg9NjmQIwVLpRQ9Xb?usp=sharing)
 * [x] [Extract text from PDF using pdfx - Calab notebook](https://colab.research.google.com/github/DerwenAI/spaCy_tuTorial/blob/master/Extract_Text_from_PDF.ipynb#scrollTo=fzzZPaQj5R-S)
 ### Day 30
-[x] [How to use retail data analysis to boost sales?](https://www.softwareadvice.com/resources/retail-data-analysis-to-boost-sales/#:~:text=It's%20an%20analysis%20of%20everything,foot%20traffic%20in%20your%20store.)
+* [x] [How to use retail data analysis to boost sales?](https://www.softwareadvice.com/resources/retail-data-analysis-to-boost-sales/#:~:text=It's%20an%20analysis%20of%20everything,foot%20traffic%20in%20your%20store.)
+### Day 31
+* CDP kaggle folder - [Google Drive](https://drive.google.com/drive/u/0/folders/1u-v0WhtC3Bp8T2MVAKOExCt9Q-qh8vYJ)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
