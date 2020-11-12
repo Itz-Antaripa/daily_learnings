@@ -106,6 +106,9 @@ Gave assessment and coding test at Accenture.
 * [x] [How to use retail data analysis to boost sales?](https://www.softwareadvice.com/resources/retail-data-analysis-to-boost-sales/#:~:text=It's%20an%20analysis%20of%20everything,foot%20traffic%20in%20your%20store.)
 ### Day 31
 * CDP kaggle folder - [Google Drive](https://drive.google.com/drive/u/0/folders/1u-v0WhtC3Bp8T2MVAKOExCt9Q-qh8vYJ)
+### Day 32
+* [x] https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d
+* [ ] https://monkeylearn.com/blog/named-entity-recognition/
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
