@@ -109,6 +109,8 @@ Gave assessment and coding test at Accenture.
 ### Day 32
 * [x] https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d
 * [ ] https://monkeylearn.com/blog/named-entity-recognition/
+### Day 33-34
+* [ ] https://towardsdatascience.com/primary-unique-and-foreign-keys-and-grouping-when-working-with-data-sets-c4a7db3051a6
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
