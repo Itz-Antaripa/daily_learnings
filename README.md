@@ -111,6 +111,8 @@ Gave assessment and coding test at Accenture.
 * [ ] https://monkeylearn.com/blog/named-entity-recognition/
 ### Day 33-34
 * [ ] https://towardsdatascience.com/primary-unique-and-foreign-keys-and-grouping-when-working-with-data-sets-c4a7db3051a6
+### Day 36
+* [x] https://www.dataquest.io/blog/sql-basics/
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
