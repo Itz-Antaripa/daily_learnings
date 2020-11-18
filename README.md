@@ -113,6 +113,8 @@ Gave assessment and coding test at Accenture.
 * [ ] https://towardsdatascience.com/primary-unique-and-foreign-keys-and-grouping-when-working-with-data-sets-c4a7db3051a6
 ### Day 36
 * [x] https://www.dataquest.io/blog/sql-basics/
+### Day 37-38
+* [ ] https://app.dataquest.io/m/354/regular-expression-basics/11/challenge-using-flags-to-modify-regex-patterns
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
@@ -146,7 +148,7 @@ Gave assessment and coding test at Accenture.
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/) - Quantum Stat
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 * https://models.quantumstat.com/
-* https://wandb.ai/gallery/natural-language
+-* https://wandb.ai/gallery/natural-language
 
 Few other resources and projects that could help you to stay informed with the field of NLP
 * https://ruder.io/nlp-news/
@@ -154,4 +156,5 @@ Few other resources and projects that could help you to stay informed with the f
 * https://paperswithcode.com/methods/area/natural-language-processing
 * https://madewithml.com/topics/natural-language-processing/
 * https://arxiv.org/list/cs.CL/recent
+
 
