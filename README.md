@@ -4,6 +4,7 @@ Starting date: **08/10/2020**
 ### Day 1
 * [x] [Datacamp tutorial](https://www.datacamp.com/community/tutorials/amazon-web-scraping-using-beautifulsoup) --> Learnt to scrape amazon site to make a datset of bestsellers
 * [ ] https://www.andyfitzgeraldconsulting.com/writing/keyword-extraction-nlp/
+
 * [ ] https://www.kaggle.com/jhoward/nb-svm-strong-linear-baseline
 * [ ] https://www.kaggle.com/hiro5299834/riiid-lgbm-starter-ii
 * [x] [Github markdown help](https://guides.github.com/features/mastering-markdown/)
@@ -114,7 +115,9 @@ Gave assessment and coding test at Accenture.
 ### Day 36
 * [x] https://www.dataquest.io/blog/sql-basics/
 ### Day 37-38
-* [ ] https://app.dataquest.io/m/354/regular-expression-basics/11/challenge-using-flags-to-modify-regex-patterns
+* [x https://app.dataquest.io/m/354/regular-expression-basics/11/challenge-using-flags-to-modify-regex-patterns
+### Day 39-40
+* [x] Advanced Regular Expression at dataquest
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
