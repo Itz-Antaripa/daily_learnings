@@ -115,9 +115,11 @@ Gave assessment and coding test at Accenture.
 ### Day 36
 * [x] https://www.dataquest.io/blog/sql-basics/
 ### Day 37-38
-* [x https://app.dataquest.io/m/354/regular-expression-basics/11/challenge-using-flags-to-modify-regex-patterns
+* [x] https://app.dataquest.io/m/354/regular-expression-basics/11/challenge-using-flags-to-modify-regex-patterns
 ### Day 39-40
 * [x] Advanced Regular Expression at dataquest
+### Day 41-42
+* [x] Introduction to SQL - Dataquest
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
