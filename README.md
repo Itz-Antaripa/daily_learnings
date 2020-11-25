@@ -122,6 +122,10 @@ Gave assessment and coding test at Accenture.
 * [x] Introduction to SQL - Dataquest
 ### Day 43
 * [x] SQL - group by, case, when, then, as, distinct
+### Day 44
+* [x] SQL - JOIN, having
+### Day 45
+* [ ] Pytorch - Jovian.ml https://www.youtube.com/watch?v=5ioMqzMRFgM&feature=emb_logo
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
