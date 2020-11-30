@@ -160,8 +160,9 @@ Gave assessment and coding test at Accenture.
 * https://github.com/AI4Bharat/indicnlp_catalog - A catalog of resources for Indian language NLP
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/) - Quantum Stat
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
-* https://models.quantumstat.com/
--* https://wandb.ai/gallery/natural-language
+* https://models.quantumstat.com/-
+* https://wandb.ai/gallery/natural-language
+* https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 
 Few other resources and projects that could help you to stay informed with the field of NLP
 * https://ruder.io/nlp-news/
@@ -169,6 +170,5 @@ Few other resources and projects that could help you to stay informed with the f
 * https://paperswithcode.com/methods/area/natural-language-processing
 * https://madewithml.com/topics/natural-language-processing/
 * https://arxiv.org/list/cs.CL/recent
-* https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 
 
