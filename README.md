@@ -126,8 +126,10 @@ Gave assessment and coding test at Accenture.
 * [x] SQL - JOIN, having
 ### Day 45
 * [ ] Pytorch - Jovian.ml https://www.youtube.com/watch?v=5ioMqzMRFgM&feature=emb_logo
-### Day 46-49
+### Day 46-50
 * [x] SQL Dataquest
+### Day 51
+* [ ] [Sentiment analysis for Bengali Newspaper Headlines](http://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/8246/13301040%2c%2013301120%2c%2013101289%20_%20CSE.pdf?sequence=1&isAllowed=y)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
@@ -163,6 +165,7 @@ Gave assessment and coding test at Accenture.
 * https://models.quantumstat.com/-
 * https://wandb.ai/gallery/natural-language
 * https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
+* https://github.com/benedekrozemberczki/awesome-community-detection
 
 Few other resources and projects that could help you to stay informed with the field of NLP
 * https://ruder.io/nlp-news/
