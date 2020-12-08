@@ -118,22 +118,19 @@ Gave assessment and coding test at Accenture.
 * [x] https://app.dataquest.io/m/354/regular-expression-basics/11/challenge-using-flags-to-modify-regex-patterns
 ### Day 39-40
 * [x] Advanced Regular Expression at dataquest
-### Day 41-42
+### Day 41-50
 * [x] Introduction to SQL - Dataquest
-### Day 43
 * [x] SQL - group by, case, when, then, as, distinct
-### Day 44
 * [x] SQL - JOIN, having
-### Day 45
-* [ ] Pytorch - Jovian.ml https://www.youtube.com/watch?v=5ioMqzMRFgM&feature=emb_logo
-### Day 46-50
 * [x] SQL Dataquest
-### Day 51
+### Day 51-55
 * [ ] [Sentiment analysis for Bengali Newspaper Headlines](http://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/8246/13301040%2c%2013301120%2c%2013101289%20_%20CSE.pdf?sequence=1&isAllowed=y)
-### Day 54
-* [x] https://docs.google.com/presentation/d/1qz0ztljK6ZKOMUfm08fQTcdHGvDvRp8DmH8YYQcVxN0/edit#slide=id.g956160e29b_0_275 - Future of Electric Vehicles using BMS and Data Analytics
+* [x] [Future of Electric Vehicles using BMS and Data Analytics](https://docs.google.com/presentation/d/1qz0ztljK6ZKOMUfm08fQTcdHGvDvRp8DmH8YYQcVxN0/edit#slide=id.g956160e29b_0_275)
 * [x] https://analyticsindiamag.com/data-analytics-a-sound-battery-management-system-are-the-future-of-electric-vehicles/
 * [x] https://mathesia.com/a-new-machine-learning-model-can-help-understand-how-batteries-work/
+* [x] [Pytorch - Jovian.ml Lesson 1](https://www.youtube.com/watch?v=5ioMqzMRFgM&feature=emb_logo)
+### Day 58
+* [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
