@@ -131,6 +131,8 @@ Gave assessment and coding test at Accenture.
 * [x] [Pytorch - Jovian.ml Lesson 1](https://www.youtube.com/watch?v=5ioMqzMRFgM&feature=emb_logo)
 ### Day 58
 * [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
+* [ ] [Beginners guide to Quantum Computing](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
+* [ ] [Highlighting Quantum Computing for Machine Learning](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
