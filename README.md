@@ -136,7 +136,7 @@ Gave assessment and coding test at Accenture.
 ### Day 61
 * [x] [Understanding Quantized tensor - github](https://github.com/pytorch/pytorch/wiki/Introducing-Quantized-Tensor)
 * [ ] [Quantization in Deep Learning - Medium](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
-### DECEMBER TARGETS (23 days left)
+### DECEMBER TARGETS (20 days left)
 * [ ] Deep learning - Jovian.ml
 * [ ] Data structures - Freecodecamp.org
 * [ ] SQL Hackerrank
