@@ -133,7 +133,9 @@ Gave assessment and coding test at Accenture.
 * [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
 * [ ] [Beginners guide to Quantum Computing](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
 * [ ] [Highlighting Quantum Computing for Machine Learning](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
-
+### Day 61
+* [x] [Understanding Quantized tensor - github](https://github.com/pytorch/pytorch/wiki/Introducing-Quantized-Tensor)
+* [ ] [Quantization in Deep Learning - Medium](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 ### DECEMBER TARGETS (23 days left)
 * [ ] Deep learning - Jovian.ml
 * [ ] Data structures - Freecodecamp.org
@@ -186,5 +188,9 @@ Few other resources and projects that could help you to stay informed with the f
 * https://paperswithcode.com/methods/area/natural-language-processing
 * https://madewithml.com/topics/natural-language-processing/
 * https://arxiv.org/list/cs.CL/recent
+
+## Mathematics resources
+* https://mathworld.wolfram.com/Tensor.html
+
 
 
