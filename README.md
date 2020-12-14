@@ -129,14 +129,17 @@ Gave assessment and coding test at Accenture.
 * [x] https://analyticsindiamag.com/data-analytics-a-sound-battery-management-system-are-the-future-of-electric-vehicles/
 * [x] https://mathesia.com/a-new-machine-learning-model-can-help-understand-how-batteries-work/
 * [x] [Pytorch - Jovian.ml Lesson 1](https://www.youtube.com/watch?v=5ioMqzMRFgM&feature=emb_logo)
-### Day 58
+### Day 55-60
 * [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
 * [ ] [Beginners guide to Quantum Computing](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
 * [ ] [Highlighting Quantum Computing for Machine Learning](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
-### Day 61
+### Day 61-63
 * [x] [Understanding Quantized tensor - github](https://github.com/pytorch/pytorch/wiki/Introducing-Quantized-Tensor)
 * [ ] [Quantization in Deep Learning - Medium](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
-### DECEMBER TARGETS (20 days left)
+* [x] SQL Hackerrank problems - 18
+* [x] Pytorch - Jovian.ml lesson 2
+* [x] Assignment 1 - Jovian.ml
+### DECEMBER TARGETS (17 days left)
 * [ ] Deep learning - Jovian.ml
 * [ ] Data structures - Freecodecamp.org
 * [ ] SQL Hackerrank
