@@ -133,19 +133,19 @@ Gave assessment and coding test at Accenture.
 * [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
 * [ ] [Beginners guide to Quantum Computing](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
 * [ ] [Highlighting Quantum Computing for Machine Learning](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
-### Day 61-63
+### Day 61-68
 * [x] [Understanding Quantized tensor - github](https://github.com/pytorch/pytorch/wiki/Introducing-Quantized-Tensor)
 * [ ] [Quantization in Deep Learning - Medium](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
-* [x] SQL Hackerrank problems - 18
+* [x] SQL Hackerrank problems - 3 star
 * [x] Pytorch - Jovian.ml lesson 2
 * [x] Assignment 1 - Jovian.ml
-### DECEMBER TARGETS (17 days left)
+* [x] https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1/
+### DECEMBER TARGETS (12 days left)
 * [ ] Deep learning - Jovian.ml
 * [ ] Data structures - Freecodecamp.org
 * [ ] SQL Hackerrank
-* [ ] Hackereartth ML Challenge
 * [ ] Elena Voita
-* [ ] Topic summarizer
+* [ ] Quantum Computing
 * [ ] Hackathon solutions, ensemble, feature engineering
 * [ ] EDA on 3 datasets
 ### To-do lists:
