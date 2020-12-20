@@ -133,18 +133,19 @@ Gave assessment and coding test at Accenture.
 * [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
 * [ ] [Beginners guide to Quantum Computing](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
 * [ ] [Highlighting Quantum Computing for Machine Learning](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
-### Day 61-68
+### Day 61-69
 * [x] [Understanding Quantized tensor - github](https://github.com/pytorch/pytorch/wiki/Introducing-Quantized-Tensor)
 * [ ] [Quantization in Deep Learning - Medium](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 * [x] SQL Hackerrank problems - 3 star
 * [x] Pytorch - Jovian.ml lesson 2
 * [x] Assignment 1 - Jovian.ml
-* [x] https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1/
-### DECEMBER TARGETS (12 days left)
+* [x] https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1/  --> Please read this again
+* [x] [Interactive introdution to quantum computing](https://davidbkemp.github.io/QuantumComputingArticle/) -> Worderful resource
+### DECEMBER TARGETS (11 days left)
 * [ ] Deep learning - Jovian.ml
 * [ ] Data structures - Freecodecamp.org
 * [ ] SQL Hackerrank
-* [ ] Elena Voita
+* [ ] Udacity NLP
 * [ ] Quantum Computing
 * [ ] Hackathon solutions, ensemble, feature engineering
 * [ ] EDA on 3 datasets
@@ -167,9 +168,11 @@ Gave assessment and coding test at Accenture.
 * [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 * [ ] https://amitness.com/regex/
 * [ ] https://www.kaggle.com/bigironsphere/sedac-introduction-how-to-work-with-this-dataset
+* [ ] [IBM Quantum Challenge Fall 2020](https://padraignix.github.io/quantum-computing/2020/12/10/ibm-quantum-challenge-fall2020/) - Experience
 
 **Resources**
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
+* [ ] [Learn Qunatum Computing using Qiskit](https://qiskit.org/textbook/preface.html) - Book
 
 *Datasets*
 * https://github.com/awesomedata/awesome-public-datasets
