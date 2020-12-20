@@ -169,6 +169,7 @@ Gave assessment and coding test at Accenture.
 * [ ] https://amitness.com/regex/
 * [ ] https://www.kaggle.com/bigironsphere/sedac-introduction-how-to-work-with-this-dataset
 * [ ] [IBM Quantum Challenge Fall 2020](https://padraignix.github.io/quantum-computing/2020/12/10/ibm-quantum-challenge-fall2020/) - Experience
+* [ ] Recommendaton system (Combination of all topics with notebooks) -> https://github.com/amitkaps/recommendation
 
 **Resources**
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
