@@ -133,7 +133,7 @@ Gave assessment and coding test at Accenture.
 * [x] [Quantum Computing - Medium](https://medium.com/swlh/quantum-computing-1d40d4ed43b2)
 * [ ] [Beginners guide to Quantum Computing](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
 * [ ] [Highlighting Quantum Computing for Machine Learning](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
-### Day 61-69
+### Day 61-80
 * [x] [Understanding Quantized tensor - github](https://github.com/pytorch/pytorch/wiki/Introducing-Quantized-Tensor)
 * [ ] [Quantization in Deep Learning - Medium](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 * [x] SQL Hackerrank problems - 3 star
@@ -141,14 +141,17 @@ Gave assessment and coding test at Accenture.
 * [x] Assignment 1 - Jovian.ml
 * [x] https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1/  --> Please read this again
 * [x] [Interactive introdution to quantum computing](https://davidbkemp.github.io/QuantumComputingArticle/) -> Worderful resource
-### DECEMBER TARGETS (11 days left)
-* [ ] Deep learning - Jovian.ml
-* [ ] Data structures - Freecodecamp.org
-* [ ] SQL Hackerrank
-* [ ] Udacity NLP
-* [ ] Quantum Computing
-* [ ] Hackathon solutions, ensemble, feature engineering
-* [ ] EDA on 3 datasets
+* [x] Statistics
+
+### January 2021
+* [ ] Udacity NLP + small repo--> 3 hrs
+* [ ] Blogging everyday
+* [ ] DSA
+* [ ] Mediwiz
+* [ ] emo.ai
+* [ ] Quantum computing
+* [ ] Prepare ML course for February
+
 ### To-do lists:
 * [ ] [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [ ] https://madewithml.com/topics/  --> Best machine learning resources including NLP, computer vision.
