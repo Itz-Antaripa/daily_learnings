@@ -143,6 +143,10 @@ Gave assessment and coding test at Accenture.
 * [x] [Interactive introdution to quantum computing](https://davidbkemp.github.io/QuantumComputingArticle/) -> Worderful resource
 * [x] Statistics
 
+### Day 81
+* [x] https://blog.aspiresys.pl/technology/building-jarvis-nlp-hot-word-detection/ (Awesome!)
+* [x] [The Magic of Natural Language Processing!"](https://docs.google.com/document/d/141TpSTVmVpoIW-YTlEkFd30b0krnyznKn2rjX8jqyE4/edit?usp=sharing) - Antaripa Saha
+
 ### January 2021
 * [ ] Udacity NLP + small repo--> 3 hrs
 * [ ] Blogging everyday
