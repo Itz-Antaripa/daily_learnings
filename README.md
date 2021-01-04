@@ -183,6 +183,8 @@ Gave assessment and coding test at Accenture.
 **Resources**
 * [ ] [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Medium
 * [ ] [Learn Qunatum Computing using Qiskit](https://qiskit.org/textbook/preface.html) - Book
+* [ ] [Learning Resources on Quantum Computing](https://qosf.org/learn_quantum/)
+* [ ] [Awesome quantum computing](https://github.com/desireevl/awesome-quantum-computing)
 
 *Datasets*
 * https://github.com/awesomedata/awesome-public-datasets
@@ -197,6 +199,7 @@ Gave assessment and coding test at Accenture.
 * https://wandb.ai/gallery/natural-language
 * https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
 * https://github.com/benedekrozemberczki/awesome-community-detection
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 Few other resources and projects that could help you to stay informed with the field of NLP
 * https://ruder.io/nlp-news/
