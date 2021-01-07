@@ -143,12 +143,13 @@ Gave assessment and coding test at Accenture.
 * [x] [Interactive introdution to quantum computing](https://davidbkemp.github.io/QuantumComputingArticle/) -> Worderful resource
 * [x] Statistics
 
-### Day 81-86
+### Day 81-87
 * [x] https://blog.aspiresys.pl/technology/building-jarvis-nlp-hot-word-detection/ (Awesome!)
 * [x] [The Magic of Natural Language Processing!"](https://docs.google.com/document/d/141TpSTVmVpoIW-YTlEkFd30b0krnyznKn2rjX8jqyE4/edit?usp=sharing) - Antaripa Saha
 * [x] Udacity NLP module 1
 * [x] Geeksforgeeks - C++ basics (11 videos)
 * [x] [The Most Complete Guide to PyTorch for Data Scientists](https://mlwhiz.com/blog/2020/09/09/pytorch_guide/?utm_campaign=the-most-complete-guide-to-pytorch-for-data-scientists&utm_medium=social_link&utm_source=missinglettr)
+* [x] https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture12-subwords.pdf (Page no: 18-24_ --> Byte Pair Encoding
 
 ### January 2021
 * [ ] Udacity NLP + small repo--> 3 hrs
