@@ -151,7 +151,7 @@ Gave assessment and coding test at Accenture.
 * [x] [The Most Complete Guide to PyTorch for Data Scientists](https://mlwhiz.com/blog/2020/09/09/pytorch_guide/?utm_campaign=the-most-complete-guide-to-pytorch-for-data-scientists&utm_medium=social_link&utm_source=missinglettr)
 * [x] [Byte Pair Encoding — The Dark Horse of Modern NLP](https://towardsdatascience.com/byte-pair-encoding-the-dark-horse-of-modern-nlp-eb36c7df4f10) - TowardsDataScience
 * [x] [Byte Pair Encoding for NLP](https://iq.opengenus.org/byte-pair-encoding/) - OpenGenus
-* [x] https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture12-subwords.pdf (Page no: 18-24_ --> Byte Pair Encoding
+* [x] https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture12-subwords.pdf (Page no: 18-24_ --> Byte Pair Encoding)
 * [x] [Stemming and Lemmaztization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) - Stanford NLP
 
 
