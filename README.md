@@ -217,5 +217,11 @@ Few other resources and projects that could help you to stay informed with the f
 ## Mathematics resources
 * https://mathworld.wolfram.com/Tensor.html
 
+## Dream project
+* Preventing sexual harrassments
+
+Reference - https://omdena.com/blog/path-finding-algorithm
+* MediWiz
+
 
 
