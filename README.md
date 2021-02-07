@@ -143,7 +143,7 @@ Gave assessment and coding test at Accenture.
 * [x] [Interactive introdution to quantum computing](https://davidbkemp.github.io/QuantumComputingArticle/) -> Worderful resource
 * [x] Statistics
 
-### Day 81-87
+### Day 81-117
 * [x] https://blog.aspiresys.pl/technology/building-jarvis-nlp-hot-word-detection/ (Awesome!)
 * [x] [The Magic of Natural Language Processing!"](https://docs.google.com/document/d/141TpSTVmVpoIW-YTlEkFd30b0krnyznKn2rjX8jqyE4/edit?usp=sharing) - Antaripa Saha
 * [x] Udacity NLP module 1
@@ -154,6 +154,11 @@ Gave assessment and coding test at Accenture.
 * [x] https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture12-subwords.pdf (Page no: 18-24_ --> Byte Pair Encoding)
 * [x] [Stemming and Lemmaztization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) - Stanford NLP
 
+### Day 118
+* N-grams
+* [x] [An Introduction to N-grams: What Are They and Why Do We Need Them?](https://blog.xrds.acm.org/2017/10/introduction-n-grams-need/)
+* [x] [Language Models: N-Gram](https://towardsdatascience.com/introduction-to-language-models-n-gram-e323081503d9)
+* [x] https://www.kite.com/python/docs/nltk.lm.preprocessing.padded_everygram_pipeline
 
 ### January 2021
 * [ ] Udacity NLP + small repo--> 3 hrs
