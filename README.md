@@ -154,11 +154,15 @@ Gave assessment and coding test at Accenture.
 * [x] https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture12-subwords.pdf (Page no: 18-24_ --> Byte Pair Encoding)
 * [x] [Stemming and Lemmaztization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) - Stanford NLP
 
-### Day 118
+### Day 118-119
 * N-grams
 * [x] [An Introduction to N-grams: What Are They and Why Do We Need Them?](https://blog.xrds.acm.org/2017/10/introduction-n-grams-need/)
 * [x] [Language Models: N-Gram](https://towardsdatascience.com/introduction-to-language-models-n-gram-e323081503d9)
-* [x] https://www.kite.com/python/docs/nltk.lm.preprocessing.padded_everygram_pipeline
+* [x] [N-grams and their use in text generation](https://medium.com/ai-in-plain-english/n-gram-and-its-use-in-text-generation-a3fbe96b2097)
+* [x] [Proper documentation of language models and padded_everygram_pipeline](https://www.kite.com/python/docs/nltk.lm.preprocessing.padded_everygram_pipeline)
+* [x] [N-gram language models - Kaggle kernel](https://www.kaggle.com/alvations/n-gram-language-model-with-nltk)
+* [x] [Everygrams in nltk](https://tedboy.github.io/nlps/generated/generated/nltk.everygrams.html)
+* 
 
 ### January 2021
 * [ ] Udacity NLP + small repo--> 3 hrs
